@@ -5,9 +5,6 @@ Every year the NBA holds its draft where prospects from all over the world compe
 NBA 2k25 Draft Analyzer: You're Number One Draft Agent is a web application aimed to help you make the right pick for the 2025 NBA Draft. Based on metrics such as how well a player performs, what specific league they are in, and what team is looking for coming into the draft, this web application takes all that information and creates a draft board on how the draft should play out. Using Machine Learning and Sentiment Analysis on players and NBA Teams, this application is ready to take youre drafting skills to the next well. Built through Python and it various libraries such as pandas, sklearn, seaborn, and frontend development with react.js. 
 
 
-
-#### Here is a Demo of our project here: [Demo Reel](https://youtu.be/ZIP461Y1W58?si=Mk33G_z0ZBHGcbCT)
-
 ## 🥇 Key Features 
 
 ## Webscrapping 
@@ -220,10 +217,6 @@ Through this hashmap, we were able to connect the backend and frontend to make s
 ⭐ Naive Bayes Machine Learning Model <br>
 ⭐ Sklearn <br>
 
-## 🌐 THE TEAM 
-
-<br></br>
-<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBADraft/blob/main/React/src/images/teamMembers.png">
 
 
 
